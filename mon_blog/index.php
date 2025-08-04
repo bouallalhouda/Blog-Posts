@@ -307,8 +307,9 @@
 
         <!-- Footer  -->
         <footer class="footer">
-            <p>&copy; 2024  Your Blog CMS_Rights reserved.</p>
+            <p>&copy; 2025  Your Blog CMS_Rights reserved.</p>
         </footer>
     </div>
 </body>
+
 </html>
