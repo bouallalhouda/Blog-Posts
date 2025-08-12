@@ -30,6 +30,3 @@ A simple Blog Content Management System made to practice new technologies ;HTML,
 
 
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/ouda-blog-cms.git
